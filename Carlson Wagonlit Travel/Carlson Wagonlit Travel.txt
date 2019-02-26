@@ -1,0 +1,10 @@
+for Carlson Wagonlit Travel website
+This is not a full smoke test
+
+Test
+CarlsonWagonlitTravelTests.java
+
+Pages
+CarlsonWagonlitMainPage.java
+CarlsonWagonlitMeetingEventsPage.java
+CarlsonWagonlitTravelManagementPage.java

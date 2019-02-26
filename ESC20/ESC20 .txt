@@ -1,0 +1,9 @@
+for ESC20 website
+This is not a full smoke test
+
+Test
+ESC20Tests.java
+
+Pages
+ESC20MainPage.java
+ESCEmploymentPage.java

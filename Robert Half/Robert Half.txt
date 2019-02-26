@@ -1,0 +1,9 @@
+for Robert Half website
+This is not a full smoke test
+
+Test
+RobertHalfTests.java
+
+Pages
+RobertHalfMainPage.java
+RobertHalfWorkWithUsPage.java

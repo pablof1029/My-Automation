@@ -1,0 +1,8 @@
+for KSAT 12 news website
+This is not a full smoke test
+
+Test
+KSATTests.java
+
+Pages
+KSATMainPage.java
